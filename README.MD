@@ -32,9 +32,6 @@ npm run build
 
 Make sure that you're using the live server extension to see the webpage.
 
----
----
----
 
 ### Thanks for reading and please leave a star and follow :)
 
